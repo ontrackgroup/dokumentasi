@@ -1,0 +1,12 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  --warnaUtama: #ff6f00;
+  --borderRadius: 10px;
+}
+
+body {
+  background: linear-gradient(to right, #ffe2cc, #f8f3f0);
+}
