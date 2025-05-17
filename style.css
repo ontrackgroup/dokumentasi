@@ -19,5 +19,5 @@ body {
   color: #333;
 }
 .btn-primary{
-  background: var(--warnaUtama);
+  background: var(--warnaUtama) !important;
 }
